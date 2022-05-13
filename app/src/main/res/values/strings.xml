@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqliteOfflineApp</string>
+    <string name="we_will_notify_cab">We will notify cab &amp; Driver details 1 hr prior to your <br />
+                  scheduled trip</string>
+</resources>

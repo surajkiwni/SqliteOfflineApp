@@ -1,4 +1,4 @@
-package com.example.storeapidatatosqldemo;
+package com.example.storeapidatatosqldemo.adapter;
 
 import android.content.Context;
 

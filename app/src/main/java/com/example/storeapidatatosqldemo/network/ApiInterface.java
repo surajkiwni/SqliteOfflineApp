@@ -1,4 +1,4 @@
-package com.example.storeapidatatosqldemo;
+package com.example.storeapidatatosqldemo.network;
 
 import com.example.storeapidatatosqldemo.model.TripsHistoryResp;
 

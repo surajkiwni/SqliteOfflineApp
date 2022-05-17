@@ -1,4 +1,4 @@
-package com.example.storeapidatatosqldemo;
+package com.example.storeapidatatosqldemo.adapter;
 
 import android.content.Context;
 import android.util.Base64;
@@ -12,11 +12,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.storeapidatatosqldemo.R;
 import com.example.storeapidatatosqldemo.model.TripsHistoryResp;
 
 import java.io.UnsupportedEncodingException;

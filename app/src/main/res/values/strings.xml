@@ -2,4 +2,7 @@
     <string name="app_name">SqliteOfflineApp</string>
     <string name="we_will_notify_cab">We will notify cab &amp; Driver details 1 hr prior to your <br />
                   scheduled trip</string>
+    <string name="ok" > Ok </string>
+    <string name="title_location_permission" >Allow Location</string>
+    <string name="text_location_permission" >please Allow permission</string>
 </resources>
